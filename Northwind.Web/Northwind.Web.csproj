@@ -7,4 +7,12 @@
     <UserSecretsId>914a31ce-b0d2-4f62-9c26-1ebd82fb3d8e</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\index.cshtml" />
+  </ItemGroup>
+
 </Project>
